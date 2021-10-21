@@ -1,7 +1,8 @@
 # error_analysis_metrics
 metrics for raw substitution analysis after aligning Illumina reads: per cycle  and nucleotide content effect
 
-![pic2git](https://user-images.githubusercontent.com/61786710/137915311-1e87ad8a-d444-46fc-a6fa-768c49fff630.png)
+
+![pic2git_1](https://user-images.githubusercontent.com/61786710/138238546-fee2e1b9-c51d-4289-b7b0-8882243e258c.png)
 
 Therefore, to run it from a command line (i) for per cycle visualisation and metrics:
 
